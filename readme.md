@@ -1,3 +1,9 @@
+team members:
+se24ucse066 T.durga prasad
+se24ucse069 Abinay
+se24ucse070 john
+se24ucse028 abhijeeth
+
 # AQI Simple Reflex Agent
 
 ## Overview
@@ -95,4 +101,5 @@ The agent reacts only to the **current environmental data** without storing prev
 ## Author
 
 AI Assignment Submission
+
 
